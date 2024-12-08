@@ -71,7 +71,7 @@
     "Date_and_Time": "December 7, 2024, 6:00 PM",
     "Location": "Alice Tully Hall, New York",
     "Ticket_Price": "$40 - $150 (depending on seating)",
-    "Availability": true,
+    "Availability": false,
     "Photo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzIaO5_8dCUf6Q6HnwbcX3Fr2lxhs4Irk3AsxsV52U3uWRbcpFUhH9pn3m2E3oGGG_TM&usqp=CAU"
   }
 
